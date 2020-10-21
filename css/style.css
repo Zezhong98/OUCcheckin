@@ -37,7 +37,7 @@
 
 #headline {
 	background-color: white;
-	font-weight: 600;
+	font-weight: 700;
 	margin: 15px 15px 0 15px;
 }
 
@@ -47,7 +47,7 @@
 
 #headlineText {
 	background-color: white;
-	font-size: 0.7em;
+	font-size: 0.8em;
 }
 
 .part .partTitle {
@@ -61,7 +61,8 @@
 #time {
 	font-weight: 600;
 	padding: 10px;
-	color: #333333;
+	color: #555555;
+	font-size: 1.1em;
 }
 
 #photoImg {
