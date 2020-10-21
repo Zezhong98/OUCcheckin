@@ -1,5 +1,5 @@
 * {
-	font-family:"Microsoft YaHei", 'Noto Sans SC', sans-serif;
+	font-family:"Bedrock", "Microsoft YaHei", sans-serif;
 	background-color: #EEEEEE;
 }
 
@@ -28,7 +28,7 @@
 /* main content */
 
 #main-content {
-	margin-top: 60px;
+	margin-top: 80px;
 }
 
 .partContent {
@@ -38,7 +38,7 @@
 #headline {
 	background-color: white;
 	font-weight: 600;
-	margin: 15px;
+	margin: 15px 15px 0 15px;
 }
 
 #logo {
@@ -47,20 +47,21 @@
 
 #headlineText {
 	background-color: white;
-	font-size: 0.9em;
+	font-size: 0.7em;
 }
 
 .part .partTitle {
 	color: #666666;
 	font-weight: 500;
-	font-size: 0.8em;
+	font-size: 0.9em;
 	padding: 10px;
 
 }
 
 #time {
-	font-weight: 500;
+	font-weight: 600;
 	padding: 10px;
+	color: #333333;
 }
 
 #photoImg {
@@ -82,5 +83,15 @@
 #detail {
 	font-weight: bold;
 	padding: 10px;
-	margin-bottom: 10px;
+	margin-bottom: 60px;
+}
+
+/* footer */
+
+#footer {
+	background-color: white;
+	width: 100%;
+	height: 50px;
+	position: fixed;
+	bottom: 0;
 }
