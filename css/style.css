@@ -1,0 +1,86 @@
+* {
+	font-family:"Microsoft YaHei", 'Noto Sans SC', sans-serif;
+	background-color: #EEEEEE;
+}
+
+/* header */
+
+.nav, .nav * {
+	background-color: white;	
+}
+
+#onlyItem {
+	width: 50%;
+}
+
+#navText {
+	padding: 15px;
+	color: #888888;
+	text-align: center;
+}
+
+#blueLine {
+	height: 3px;
+	margin: 0 4px 0 4px;
+	background-color: #4389D0;
+}
+
+/* main content */
+
+#main-content {
+	margin-top: 60px;
+}
+
+.partContent {
+	background-color: white;
+}
+
+#headline {
+	background-color: white;
+	font-weight: 600;
+	margin: 15px;
+}
+
+#logo {
+	width: 30px;
+}
+
+#headlineText {
+	background-color: white;
+	font-size: 0.9em;
+}
+
+.part .partTitle {
+	color: #666666;
+	font-weight: 500;
+	font-size: 0.8em;
+	padding: 10px;
+
+}
+
+#time {
+	font-weight: 500;
+	padding: 10px;
+}
+
+#photoImg {
+	width: 150px;
+	background-color: white;
+	display: block;
+	margin: auto;
+	padding: 15px 0 15px;
+}
+
+#QRcodeImg {
+	width: 100px;
+	background-color: white;
+	display: block;
+	margin: auto;
+	padding: 15px 0 15px;
+}
+
+#detail {
+	font-weight: bold;
+	padding: 10px;
+	margin-bottom: 10px;
+}
